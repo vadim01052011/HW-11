@@ -5,6 +5,6 @@
     padding-left: 10px;
     padding-bottom: 20px;
     padding-right: 10px;
-    border-color: green;
+    background-color: green;
     border: 2px dashed red;
 }
